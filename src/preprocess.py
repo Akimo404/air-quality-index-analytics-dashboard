@@ -134,13 +134,14 @@ def impute_group(s: pd.Series) -> pd.Series:
     s = s.interpolate(method='linear', limit_direction='both')
     return s.round(0)
 
-
 def get_season(month: int) -> str:
     """Categorizes months into Delhi seasons."""
     if month in [12, 1, 2]:
         return 'Winter'
     elif month in [3, 4, 5]:
         return 'Summer'
+    elif month in [6, 7, 8, 9]:
+        return 'Monsoon'
     else:
         return 'Post-Monsoon'
 
