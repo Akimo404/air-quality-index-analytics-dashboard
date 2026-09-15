@@ -23,7 +23,7 @@ air-quality-index-analytics-dashboard/
 │   └── methodology.md
 │
 ├── notebooks/                  # Exploratory Data Analysis & Colab notebooks
-│   └── Data_Preprocessing.ipynb
+│   └── Data_Preprocessing.ipynb and AQI calculator
 │
 ├── src/
 │   └── preprocess.py           # Production data preprocessing pipeline
