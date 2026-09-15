@@ -34,14 +34,14 @@ air-quality-index-analytics-dashboard/
 
 ## 📊 Interactive Dashboards & Visualizations
 
-Click on any preview image below to interact with the live dashboard on Tableau Public:
+Click on any preview image below to launch the live interactive dashboard on Tableau Public:
 
 | Visualization | Live Preview |
 | :--- | :--- |
-| **Spatial Symbol Map**<br> *Geographic tracking across 30 stations* | [![Symbol Map Preview](./docs/map.png)](https://public.tableau.com/views/Book2_17894889785510/map) |
-| **6-Month AQI Forecast**<br> *Predictive time-series modeling* | [![Forecast Preview](./docs/forecast.png)](https://public.tableau.com/views/Book3_17894907559570/Sheet1) |
-| **Seasonal AQI Analysis**<br> *Winter spikes vs. Monsoon recovery* | [![Seasonal Preview](./docs/seasonal.png)](https://public.tableau.com/views/Book4_17894911840480/Sheet1) |
-| **Monthly Trend Line**<br> *Time-series pollution shifts* | [![Trend Preview](./docs/trend.png)](https://public.tableau.com/views/Book5_17894915469430/Sheet1) |
+| **Spatial Symbol Map**<br> *Geographic tracking across 30 monitoring stations* | [![Symbol Map Preview](./docs/Symbol%20Map.png)](https://public.tableau.com/views/Book2_17894889785510/map) |
+| **6-Month AQI Forecast**<br> *Predictive time-series modeling* | [![Forecast Preview](./docs/Forecast.png)](https://public.tableau.com/views/Book3_17894907559570/Sheet1) |
+| **Seasonal AQI Analysis**<br> *Winter spikes vs. Monsoon recovery* | [![Seasonal Preview](./docs/Seasons.png)](https://public.tableau.com/views/Book4_17894911840480/Sheet1) |
+| **Station Rankings & Monthly Trend**<br> *Comparative station pollution metrics* | [![Rankings Preview](./docs/Rankings.png)](https://public.tableau.com/views/Book5_17894915469430/Sheet1) |
 
 ---
-For additional details and individual sheet breakdowns, see our [Dashboard Links Documentation](./dashboard_link.md).
+For detailed descriptions and direct textual links, see our [Dashboard Links Documentation](./dashboard_link.md).
