@@ -36,12 +36,40 @@ air-quality-index-analytics-dashboard/
 
 Click on any preview image below to launch the live interactive dashboard on Tableau Public:
 
-| Visualization | Live Preview |
-| :--- | :--- |
-| **Spatial Symbol Map**<br> *Geographic tracking across 30 monitoring stations* | [![Symbol Map Preview](./docs/Symbol%20Map.png)](https://public.tableau.com/views/Book2_17894889785510/map) |
-| **6-Month AQI Forecast**<br> *Predictive time-series modeling* | [![Forecast Preview](./docs/Forecast.png)](https://public.tableau.com/views/Book3_17894907559570/Sheet1) |
-| **Seasonal AQI Analysis**<br> *Winter spikes vs. Monsoon recovery* | [![Seasonal Preview](./docs/Seasons.png)](https://public.tableau.com/views/Book4_17894911840480/Sheet1) |
-| **Station Rankings & Monthly Trend**<br> *Comparative station pollution metrics* | [![Rankings Preview](./docs/Rankings.png)](https://public.tableau.com/views/Book5_17894915469430/Sheet1) |
+<table>
+  <tr>
+    <td align="center"><b>Spatial Symbol Map</b><br><i>30 monitoring stations</i></td>
+    <td align="center">
+      <a href="https://public.tableau.com/views/Book2_17894889785510/map">
+        <img src="Symbol Map.png" width="400" alt="Symbol Map Preview">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>6-Month AQI Forecast</b><br><i>Predictive time-series model</i></td>
+    <td align="center">
+      <a href="https://public.tableau.com/views/Book3_17894907559570/Sheet1">
+        <img src="Forecast.png" width="400" alt="Forecast Preview">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Seasonal AQI Analysis</b><br><i>Winter spikes vs Monsoon recovery</i></td>
+    <td align="center">
+      <a href="https://public.tableau.com/views/Book4_17894911840480/Sheet1">
+        <img src="Seasons.png" width="400" alt="Seasonal Preview">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Station Rankings & Trend</b><br><i>Comparative metrics</i></td>
+    <td align="center">
+      <a href="https://public.tableau.com/views/Book5_17894915469430/Sheet1">
+        <img src="Rankings.png" width="400" alt="Rankings Preview">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
-For detailed descriptions and direct textual links, see our [Dashboard Links Documentation](./dashboard_link.md).
+For detailed breakdowns, see our <a href="./dashboard_link.md">Dashboard Links Documentation</a>.
